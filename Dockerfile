@@ -1,4 +1,4 @@
-FROM ubuntu:xenial
+FROM ubuntu:latest
 LABEL Author='Ryan Bernardino <r.bernardino17@gmail.com>'
 
 # Prevent dpkg errors
